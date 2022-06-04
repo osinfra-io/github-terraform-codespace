@@ -8,9 +8,9 @@ repos:
       - id: no-commit-to-branch
 
   - repo: https://github.com/bridgecrewio/checkov.git
-    rev: 2.0.1161
+    rev: 2.0.1190
     hooks:
       - id: checkov
-        entry: checkov --directory .devcontainer/
+        entry: checkov --directory .devcontainer
         verbose: true
         args: [--framework dockerfile --soft-fail]
