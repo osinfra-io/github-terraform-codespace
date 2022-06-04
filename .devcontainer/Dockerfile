@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu
 
-#HEALTHCHECK NONE
+HEALTHCHECK NONE
 
 RUN chsh vscode -s /usr/bin/zsh
 
