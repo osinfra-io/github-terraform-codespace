@@ -18,6 +18,7 @@ tools=(
     gh
     go
     hashicorp/tap/terraform
+    infracost
     kubectl
     terraform-docs
     pre-commit
