@@ -1,0 +1,35 @@
+{
+    "name": "GitHub Codespace for Terraform Infrastructure as Code (IaC) Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "codespaces": {
+            "repositories": {
+                "osinfra-io/learn-terraform-child-module": {
+                    "permissions": "write-all"
+                }
+            }
+        }
+    },
+    "settings": {
+        "terminal.integrated.fontSize": 12,
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.fontFamily": "MesloLGS NF",
+        "editor.fontFamily": "MesloLGS NF",
+        "editor.fontSize": 13,
+        "files.associations": {
+            "*.tfvars": "terraform"
+        }
+    },
+    "extensions": [
+        "bridgecrew.checkov",
+        "davidanson.vscode-markdownlint",
+        "hashicorp.terraform",
+        "github.vscode-pull-request-github",
+        "rebornix.ruby",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one"
+    ]
+}
