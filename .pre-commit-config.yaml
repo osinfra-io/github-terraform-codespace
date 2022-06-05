@@ -11,6 +11,5 @@ repos:
     rev: 2.0.1190
     hooks:
       - id: checkov
-        entry: checkov --directory .devcontainer
         verbose: true
-        args: [--framework dockerfile --soft-fail]
+        args: [--soft-fail]
