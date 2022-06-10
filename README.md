@@ -64,6 +64,7 @@ The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and librarie
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ## Local development environments
 
