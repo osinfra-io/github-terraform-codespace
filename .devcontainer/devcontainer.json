@@ -26,6 +26,7 @@
         "bridgecrew.checkov",
         "davidanson.vscode-markdownlint",
         "hashicorp.terraform",
+        "infracost.infracost",
         "github.vscode-pull-request-github",
         "rebornix.ruby",
         "redhat.vscode-yaml",
