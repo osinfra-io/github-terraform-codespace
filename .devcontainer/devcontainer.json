@@ -6,7 +6,7 @@
     "customizations": {
         "codespaces": {
             "repositories": {
-                "osinfra-io/learn-terraform-child-module": {
+                "osinfra-io/github-repo-test": {
                     "permissions": "write-all"
                 }
             }
@@ -26,6 +26,7 @@
         "bridgecrew.checkov",
         "davidanson.vscode-markdownlint",
         "hashicorp.terraform",
+        "infracost.infracost",
         "github.vscode-pull-request-github",
         "rebornix.ruby",
         "redhat.vscode-yaml",
