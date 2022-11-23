@@ -6,7 +6,7 @@
     "customizations": {
         "codespaces": {
             "repositories": {
-                "osinfra-io/learn-terraform-child-module": {
+                "osinfra-io/github-repo-test": {
                     "permissions": "write-all"
                 }
             }
