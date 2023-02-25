@@ -4,10 +4,6 @@
 
 [![Dependabot](https://github.com/osinfra-io/github-terraform-codespace/actions/workflows/dependabot.yml/badge.svg)](https://github.com/osinfra-io/github-terraform-codespace/actions/workflows/dependabot.yml)
 
-**[Bridgecrew](https://www.bridgecrew.cloud/projects?types=Passed&repository=osinfra-io%2Fgithub-terraform-codespace&branch=main):**
-
-[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/osinfra-io/github-terraform-codespace/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=osinfra-io%2Fgithub-terraform-codespace&benchmark=INFRASTRUCTURE+SECURITY) [![CIS DOCKER](https://www.bridgecrew.cloud/badges/github/osinfra-io/github-terraform-codespace/cis_docker_12)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=osinfra-io%2Fgithub-terraform-codespace&benchmark=CIS+DOCKER+12)
-
 ## Blazing fast cloud IaC developer environments
 
 Visual Studio Code backed by high performance VMs that start in seconds.
