@@ -35,33 +35,20 @@ We primarily use [Homebrew](https://github.com/Homebrew/brew) *The Missing Packa
 
 ### Cloud providers tools
 
-#### AWS CLI
-
-The [AWS command-line interface](https://aws.amazon.com/cli) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
-
-#### Azure CLI
-
-The [Azure command-line interface](https://docs.microsoft.com/en-us/cli/azure) is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
-
 #### Google Cloud SDK
 
 The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and libraries for interacting with Google Cloud products and services. It manages authentication, local configuration, developer workflow, interactions with Google Cloud APIs.
 
 ### Open-source tools
 
-- [checkov](https://github.com/bridgecrewio/checkov)
 - [chef-inspec](https://github.com/inspec/inspec)
 - [github-cli](https://github.com/cli/cli)
 - [infracost](https://github.com/infracost/infracost)
-- [inspec-gcp](https://github.com/inspec/inspec-gcp)
-- [inspec-aws](https://github.com/inspec/inspec-aws)
-- [inspec-azure](https://github.com/inspec/inspec-azure)
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform)
 - [pre-commit](https://github.com/pre-commit/pre-commit)
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform)
 - [terraform](https://github.com/hashicorp/terraform)
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs)
-- [yor](https://github.com/bridgecrewio/yor)
 
 ### Zsh stuff
 
@@ -76,3 +63,4 @@ If you'd still like to run your environment locally and not use Codespaces, we h
 
 - [Windows development environment](https://docs.osinfra.io/development-setup/windows-wsl-setup)
 - [Ubuntu development environment](https://docs.osinfra.io/development-setup/ubuntu-setup)
+- [Gentoo development environment](https://docs.osinfra.io/development-setup/gentoo-setup)
