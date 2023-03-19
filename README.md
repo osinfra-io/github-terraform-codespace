@@ -63,4 +63,4 @@ If you'd still like to run your environment locally and not use Codespaces, we h
 
 - [Windows development environment](https://docs.osinfra.io/development-setup/windows-wsl-setup)
 - [Ubuntu development environment](https://docs.osinfra.io/development-setup/ubuntu-setup)
-- [Gentoo development environment](https://docs.osinfra.io/development-setup/gentoo-setup)
+- [Gentoo development environment](https://docs.osinfra.io/development-setup/gentoo)
