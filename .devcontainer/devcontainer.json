@@ -3,15 +3,6 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
-    "customizations": {
-        "codespaces": {
-            "repositories": {
-                "osinfra-io/github-repo-test": {
-                    "permissions": "write-all"
-                }
-            }
-        }
-    },
     "settings": {
         "terminal.integrated.fontSize": 12,
         "terminal.integrated.defaultProfile.linux": "zsh",
@@ -23,10 +14,8 @@
         }
     },
     "extensions": [
-        "bridgecrew.checkov",
         "davidanson.vscode-markdownlint",
         "hashicorp.terraform",
-        "infracost.infracost",
         "github.vscode-pull-request-github",
         "rebornix.ruby",
         "redhat.vscode-yaml",
