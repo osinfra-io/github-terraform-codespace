@@ -3,23 +3,29 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
-    "settings": {
-        "terminal.integrated.fontSize": 12,
-        "terminal.integrated.defaultProfile.linux": "zsh",
-        "terminal.integrated.fontFamily": "MesloLGS NF",
-        "editor.fontFamily": "MesloLGS NF",
-        "editor.fontSize": 13,
-        "files.associations": {
-            "*.tfvars": "terraform"
+
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "yzhang.markdown-all-in-one",
+                "davidanson.vscode-markdownlint",
+                "redhat.vscode-yaml",
+                "hashicorp.terraform",
+                "rebornix.ruby",
+                "github.vscode-pull-request-github"
+            ],
+            "settings": {
+                "terminal.integrated.fontSize": 12,
+                "terminal.integrated.defaultProfile.linux": "zsh",
+                "terminal.integrated.fontFamily": "MesloLGS NF",
+                "editor.fontFamily": "MesloLGS NF",
+                "editor.fontSize": 13,
+                "files.associations": {
+                    "*.tfvars": "terraform"
+                }
+            }
         }
-    },
-    "extensions": [
-        "davidanson.vscode-markdownlint",
-        "hashicorp.terraform",
-        "github.vscode-pull-request-github",
-        "rebornix.ruby",
-        "redhat.vscode-yaml",
-        "streetsidesoftware.code-spell-checker",
-        "yzhang.markdown-all-in-one"
-    ]
+    }
 }

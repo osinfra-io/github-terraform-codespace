@@ -8,6 +8,4 @@ USER vscode
 
 RUN /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/osinfra-io/local-development-setup/v1.3.2/ubuntu/setup.sh)"
 
-# checkov:skip=CKV_DOCKER_5: Research in #25
-
 RUN ~/bin/update.sh
