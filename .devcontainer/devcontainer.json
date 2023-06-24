@@ -3,29 +3,23 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
-
-
     "customizations": {
         "vscode": {
             "extensions": [
+                "vscodevim.vim",
                 "streetsidesoftware.code-spell-checker",
-                "yzhang.markdown-all-in-one",
-                "davidanson.vscode-markdownlint",
-                "redhat.vscode-yaml",
+                "ms-azuretools.vscode-docker",
+                "github.vscode-github-actions",
+                "github.copilot-chat",
+                "github.copilot-nightly",
+                "github.vscode-pull-request-github",
+                "hashicorp.hcl",
                 "hashicorp.terraform",
+                "ms-kubernetes-tools.vscode-kubernetes-tools",
+                "davidanson.vscode-markdownlint",
                 "rebornix.ruby",
-                "github.vscode-pull-request-github"
-            ],
-            "settings": {
-                "terminal.integrated.fontSize": 12,
-                "terminal.integrated.defaultProfile.linux": "zsh",
-                "terminal.integrated.fontFamily": "MesloLGS NF",
-                "editor.fontFamily": "MesloLGS NF",
-                "editor.fontSize": 13,
-                "files.associations": {
-                    "*.tfvars": "terraform"
-                }
-            }
+                "redhat.vscode-yaml"
+            ]
         }
     }
 }
