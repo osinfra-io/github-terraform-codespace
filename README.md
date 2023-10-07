@@ -6,13 +6,13 @@
 
 ## Blazing fast cloud IaC developer environments
 
-Visual Studio Code backed by high performance VMs that start in seconds.
+Visual Studio Code backed by high-performance VMs that start in seconds.
 
-*Use the full power of Visual Studio Code, including the editor, terminal, debugger, version control, settings sync, and the entire ecosystem of extensions. Work in the browser or hand off to your desktop.*
+*Use the full power of Visual Studio Code, including the editor, terminal, debugger, version control, settings sync, and the entire ecosystem of extensions. Work in the browser or hand it off to your desktop.*
 
 ### Codespaces documentation
 
-When using any development environment, customizing the settings and tools to your preferences and workflows is an important step. Codespaces allows for two main ways of personalizing your codespaces.
+Customizing the settings and tools to your preferences and workflows is an important step when using any development environment. Codespaces allows for two main ways of personalizing your codespaces.
 
 [Settings Sync](https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-codespaces-for-your-account#settings-sync) - You can use and share Visual Studio Code settings between Codespaces and other instances of Visual Studio Code.
 
@@ -24,20 +24,20 @@ Codespaces personalization applies to any codespace you create.
 
 ## Goals
 
-We recommend forking this repository for use. Its purpose is to be a baseline, something you can maintain on your own and modify to fit your organization's needs. Once you go down the road of Infrastructure as Code (IaC), what you will find is onboarding developers takes time and can be confusing for people new to development, and that will limit contributions.
+We recommend forking this repository for use. Its purpose is to be a baseline, something you can maintain and modify to fit your organization's needs. Once you go down the road of Infrastructure as Code (IaC), what you will find is onboarding developers takes time and can be confusing for people new to development, and that will limit contributions.
 
 - Standardized IaC developer environments
 - Simple onboarding so new IaC developers can contribute easier
 
 ## Core tools
 
-We primarily use [Homebrew](https://github.com/Homebrew/brew) *The Missing Package Manager for macOS (or Linux)* for package management since most open-source tools support it. It saves time vs. having to manage different ways of installing various open-source tools.
+We primarily use [Homebrew](https://github.com/Homebrew/brew) *The Missing Package Manager for macOS (or Linux)* for package management since most open-source tools support it. It saves time vs. managing different ways of installing various open-source tools.
 
-### Cloud providers tools
+### Cloud provider tools
 
 #### Google Cloud SDK
 
-The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and libraries for interacting with Google Cloud products and services. It manages authentication, local configuration, developer workflow, interactions with Google Cloud APIs.
+The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and libraries for interacting with Google Cloud products and services. It manages authentication, local configuration, developer workflow, and interactions with Google Cloud APIs.
 
 ### Open-source tools
 
