@@ -8,18 +8,26 @@
             "extensions": [
                 "vscodevim.vim",
                 "streetsidesoftware.code-spell-checker",
+                "datadog.datadog-vscode",
                 "ms-azuretools.vscode-docker",
                 "github.vscode-github-actions",
-                "github.copilot-chat",
-                "github.copilot-nightly",
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
                 "github.vscode-pull-request-github",
                 "hashicorp.hcl",
                 "hashicorp.terraform",
+                "Infracost.infracost",
                 "ms-kubernetes-tools.vscode-kubernetes-tools",
                 "davidanson.vscode-markdownlint",
-                "rebornix.ruby",
+                "tsandall.opa",
+                "Shopify.ruby-lsp",
                 "redhat.vscode-yaml"
             ]
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2.7.1": {
+            "version": "latest"
         }
     }
 }
