@@ -42,7 +42,6 @@ The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and librarie
 ### Open-source tools
 
 - [github-cli](https://github.com/cli/cli)
-- [github-copilot-cli](https://www.npmjs.com/package/@githubnext/github-copilot-cli)
 - [infracost](https://github.com/infracost/infracost)
 - [inspec](https://github.com/inspec/inspec)
 - [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform)
@@ -53,7 +52,7 @@ The [Google Cloud SDK](https://cloud.google.com/sdk) provides tools and librarie
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs)
 - [vim-terraform](https://github.com/hashivim/vim-terraform)
 
-### Zsh stuff
+### Zsh tools
 
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
