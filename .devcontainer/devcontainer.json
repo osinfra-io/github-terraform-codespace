@@ -20,13 +20,12 @@
                 "ms-kubernetes-tools.vscode-kubernetes-tools",
                 "davidanson.vscode-markdownlint",
                 "tsandall.opa",
-                "Shopify.ruby-lsp",
                 "redhat.vscode-yaml"
             ]
         }
     },
     "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker:2.7.1": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2.8.1": {
             "version": "latest"
         }
     }
