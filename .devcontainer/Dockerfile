@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/vscode/devcontainers/base:1.2.6-ubuntu22.04
+FROM mcr.microsoft.com/vscode/devcontainers/base:2.0.1-ubuntu22.04
 
 HEALTHCHECK NONE
 
