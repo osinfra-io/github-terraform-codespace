@@ -1,5 +1,5 @@
 {
-    "name": "GitHub Codespace for Terraform Infrastructure as Code (IaC) Development",
+    "name": "GitHub Codespace for OpenTofu Infrastructure as Code (IaC) Development",
     "build": {
         "dockerfile": "Dockerfile"
     },
@@ -9,23 +9,23 @@
                 "vscodevim.vim",
                 "streetsidesoftware.code-spell-checker",
                 "datadog.datadog-vscode",
-                "ms-azuretools.vscode-docker",
-                "github.vscode-github-actions",
-                "GitHub.copilot",
-                "GitHub.copilot-chat",
-                "github.vscode-pull-request-github",
-                "hashicorp.hcl",
-                "hashicorp.terraform",
-                "Infracost.infracost",
-                "ms-kubernetes-tools.vscode-kubernetes-tools",
                 "davidanson.vscode-markdownlint",
+                "docker.docker",
+                "github.vscode-github-actions",
+                "github.copilot",
+                "github.copilot-chat",
+                "github.vscode-pull-request-github",
+                "golang.go",
+                "ms-kubernetes-tools.vscode-kubernetes-tools",
+                "ms-azuretools.vscode-containers",
+                "opentofu.vscode-opentofu",
                 "tsandall.opa",
                 "redhat.vscode-yaml"
             ]
         }
     },
     "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker:2.8.1": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2.12.2": {
             "version": "latest"
         }
     }

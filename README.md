@@ -1,8 +1,8 @@
-# <img align="left" width="45" height="45" src="https://user-images.githubusercontent.com/1610100/201473670-e0e6bdeb-742f-4be1-a47a-3506309620a3.png"> GitHub Codespace for Terraform IaC development
+# <img align="left" width="45" height="45" src="https://user-images.githubusercontent.com/1610100/201473670-e0e6bdeb-742f-4be1-a47a-3506309620a3.png"> GitHub Codespace for OpenTofu IaC development
 
-**[GitHub Actions](https://github.com/osinfra-io/github-terraform-codespace/actions):**
+**[GitHub Actions](https://github.com/osinfra-io/github-opentofu-codespace/actions):**
 
-[![Dependabot](https://github.com/osinfra-io/github-terraform-codespace/actions/workflows/dependabot.yml/badge.svg)](https://github.com/osinfra-io/github-terraform-codespace/actions/workflows/dependabot.yml)
+[![Dependabot](https://github.com/osinfra-io/github-opentofu-codespace/actions/workflows/dependabot.yml/badge.svg)](https://github.com/osinfra-io/github-opentofu-codespace/actions/workflows/dependabot.yml)
 
 ## Blazing fast cloud IaC developer environments
 
